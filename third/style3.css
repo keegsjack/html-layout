@@ -18,7 +18,8 @@ html, body {
 	margin-right: 300px;
 	margin-left: 300px;
 	clear: both;
-	padding: 5% 29%;
+	padding: 2%;
+	font-size: 100px;
 }
 
 .first {

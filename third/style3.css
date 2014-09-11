@@ -4,6 +4,7 @@ html, body {
 }
 
 .top {
+	margin: 50px 300px 0px 300px;
 	background-color: #CBCBCB;
 	text-align: center;
 	padding: 20%;
@@ -19,36 +20,41 @@ html, body {
 }
 
 .first {
+	margin-right: 300px;
+	margin-left: 300px;
 	clear: both;
 	background-color: black;
-	width: 100%;
-	height: 20%;
+	padding: 5% 29%;
 }
 
 .second {
 	clear: both;
+	margin-right: 300px;
+	margin-left: 300px;
 	background-color: red;
-	width: 100%;
-	height: 20%;
+	padding: 5% 29%;
 }
 
 .third {
 	clear: both;
+	margin-right: 300px;
+	margin-left: 300px;
 	background-color: blue;
-	width: 100%;
-	height: 20%;
+	padding: 5% 29%;
 }
 
 .fourth {
 	clear: both;
+	margin-right: 300px;
+	margin-left: 300px;
 	background-color: purple;
-	width: 100%;
-	height: 20%;
+	padding: 5% 29%;
 }
 
 .fifth {
 	clear: both;
+	margin-right: 300px;
+	margin-left: 300px;
 	background-color: #CBCBCB;
-	width: 100%;
-	height: 20%;
+	padding: 5% 29%;
 }

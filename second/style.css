@@ -1,0 +1,30 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.left {
+	height: 100%;
+	width: 30%;
+	float: left;
+	background-color: blue;
+}
+
+.middle {
+	height: 100%;
+	width: 30%;
+	float: left;
+	background-color: red;
+}
+
+.right {
+	height: 65%;
+	width: 30%;
+	float: left;
+	background-color: black;
+}
+
+img {
+	width: 30%;
+	height: 35%;
+}

@@ -1,0 +1,54 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.top {
+	background-color: #CBCBCB;
+	text-align: center;
+	padding: 20%;
+	font-size: 200px;
+	font-family: "trebuchet MS";
+	clear: both;
+}
+
+.scroll {
+	clear: both;
+	width: 100%;
+	height: 20%;
+}
+
+.first {
+	clear: both;
+	background-color: black;
+	width: 100%;
+	height: 20%;
+}
+
+.second {
+	clear: both;
+	background-color: red;
+	width: 100%;
+	height: 20%;
+}
+
+.third {
+	clear: both;
+	background-color: blue;
+	width: 100%;
+	height: 20%;
+}
+
+.fourth {
+	clear: both;
+	background-color: purple;
+	width: 100%;
+	height: 20%;
+}
+
+.fifth {
+	clear: both;
+	background-color: #CBCBCB;
+	width: 100%;
+	height: 20%;
+}
